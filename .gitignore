@@ -1,0 +1,10 @@
+# secretos
+.vercel-token
+
+# vercel
+.vercel
+jose-store/.vercel
+
+# node
+node_modules/
+package-lock.json

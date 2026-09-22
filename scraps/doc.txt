@@ -1,0 +1,476 @@
+[Heading1] 📘 Jose Store — Documentación del E-commerce de Streaming 2026
+[BlockText] Documento técnico y comercial. Versión 1.0 · Moneda: COP (pesos colombianos) · Vigencia de precios: 2026 Contacto de ventas: WhatsApp 300 383 8830
+[Heading2] 1. Descripción general
+[FirstParagraph] Jose Store es una tienda web de cuentas y pantallas de plataformas digitales. El catálogo se muestra en línea, el cliente arma su pedido (pantallas individuales o combos) y el cierre de la venta se hace por WhatsApp: el carrito funciona como cotización que se envía al vendedor con el detalle y el total ya calculado.
+[BodyText] Propuesta de valor comunicada al cliente:
+[Compact] Mensaje
+[Compact] Uso
+[Compact] 💳 Pagos 100% seguros
+[Compact] Banner principal
+[Compact] ⚡ Activación inmediata
+[Compact] Banner principal
+[Compact] 🔥 Garantía de 24 horas
+[Compact] Banner + política detallada (ver §8)
+[Compact] 🛠 Soporte personalizado
+[Compact] Banner + footer
+[BodyText] Estructura del sitio (3 vistas principales):
+[Compact] Catálogo individual — pantallas sueltas agrupadas por categoría.
+[Compact] Combos — paquetes con descuento (sección destacada, es el mayor diferencial).
+[Compact] Carrito / Cotización — resumen + botón “Pedir por WhatsApp”.
+[Heading2] 2. Catálogo de precios individuales
+[Heading3] 2.1 Streaming de video
+[Compact] Plataforma
+[Compact] Plan
+[Compact] Duración
+[Compact] Precio
+[Compact] 📺 Netflix
+[Compact] 1 pantalla
+[Compact] 30 días
+[Compact] $15.600
+[Compact] 📺 Netflix
+[Compact] 1 pantalla premium privada
+[Compact] 30 días
+[Compact] $17.000
+[Compact] 📺 Netflix
+[Compact] Plan completo (5 pantallas)
+[Compact] 30 días
+[Compact] $65.000
+[Compact] 📺 Disney+ Premium
+[Compact] 1 pantalla
+[Compact] 30 días
+[Compact] $12.000
+[Compact] 📺 Amazon Prime Video
+[Compact] 1 pantalla
+[Compact] 30 días
+[Compact] $10.000
+[Compact] 📺 HBO Max
+[Compact] 1 pantalla
+[Compact] 30 días
+[Compact] $10.000
+[Compact] 📺 Paramount+
+[Compact] 1 pantalla
+[Compact] 30 días
+[Compact] $10.000
+[Compact] 🍿 Plex / Vix
+[Compact] 1 pantalla
+[Compact] 30 días
+[Compact] $8.000
+[Heading3] 2.2 Música y audio
+[Compact] Plataforma
+[Compact] Duración
+[Compact] Precio
+[Compact] 🎵 Spotify Premium
+[Compact] 30 días
+[Compact] $12.000
+[Compact] 🎧 YouTube Premium
+[Compact] 30 días
+[Compact] $12.000
+[Heading3] 2.3 Anime, deportes y TV
+[Compact] Plataforma
+[Compact] Duración
+[Compact] Precio
+[Compact] 🎮 Crunchyroll
+[Compact] 30 días
+[Compact] $10.000
+[Compact] ⚽ IPTV Gold / Magis TV
+[Compact] 30 días
+[Compact] $10.000
+[Heading3] 2.4 Diseño y productividad
+[Compact] Plataforma
+[Compact] Plan
+[Compact] Precio
+[Compact] 🎨 Canva Pro (correo personal, renovable)
+[Compact] 45 días
+[Compact] $8.000
+[Compact] 🎨 Canva Pro
+[Compact] 2 meses
+[Compact] $13.000
+[Compact] 🎨 Canva Pro
+[Compact] 6 meses
+[Compact] $20.000
+[Compact] 🎨 Canva Pro
+[Compact] 12 meses
+[Compact] $30.000
+[Heading2] 3. Plataformas sugeridas para ampliar el catálogo
+[FirstParagraph] Estas son las que más peso tienen hoy en el mercado colombiano de reventa y que hoy no están en tu lista. Los precios son una sugerencia de posicionamiento: valídalos contra tu costo real de proveedor antes de publicarlos.
+[Heading3] 3.1 Video (alta rotación)
+[Compact] Plataforma
+[Compact] Precio sugerido (30 días)
+[Compact] Nota
+[Compact] 🍎 Apple TV+
+[Compact] $10.000
+[Compact] Catálogo pequeño pero con títulos de alto tráfico
+[Compact] 🎬 Vix Premium
+[Compact] $8.000
+[Compact] Fuerte en contenido en español y fútbol mexicano
+[Compact] 🎞 Universal+
+[Compact] $8.000
+[Compact] Complemento barato, buen relleno de combo
+[Compact] 📡 DirecTV GO
+[Compact] $12.000
+[Compact] Alternativa a IPTV con canales en vivo
+[Compact] 🎭 Viki Rakuten
+[Compact] $8.000
+[Compact] Nicho k-drama, público fiel
+[Compact] ⭐ Star+
+[Compact] —
+[Compact] No listar por separado: en LatAm ya está integrado dentro de Disney+
+[Heading3] 3.2 Música
+[Compact] Plataforma
+[Compact] Precio sugerido (30 días)
+[Compact] 🎵 Apple Music
+[Compact] $12.000
+[Compact] 🎵 Deezer Premium
+[Compact] $10.000
+[Compact] 🎵 Tidal
+[Compact] $10.000
+[Heading3] 3.3 Productividad e IA (segmento en crecimiento, mejor margen)
+[Compact] Plataforma
+[Compact] Precio sugerido (30 días)
+[Compact] Nota
+[Compact] 💼 Microsoft 365
+[Compact] $15.000
+[Compact] Muy demandado por estudiantes
+[Compact] 🦉 Duolingo Super
+[Compact] $10.000
+[Compact] Ticket bajo, alta conversión
+[Compact] 🤖 ChatGPT Plus
+[Compact] $28.000
+[Compact] Vender “bajo pedido”, el costo cambia seguido
+[Compact] 🤖 Google One AI / Gemini
+[Compact] $22.000
+[Compact] Bajo pedido
+[Heading3] 3.4 Gaming (bajo pedido)
+[Compact] Plataforma
+[Compact] Precio sugerido
+[Compact] Nota
+[Compact] 🎮 Xbox Game Pass Ultimate
+[Compact] $28.000 / 30 días
+[Compact] Verificar región de la cuenta
+[Compact] 🎮 PlayStation Plus Essential
+[Compact] $22.000 / 30 días
+[Compact] Bajo pedido
+[BlockText] Recomendación: no publiques más de 18–20 productos en la vista principal. Lo demás va en una sección “🌟 Bajo pedido” con formulario a WhatsApp. Un catálogo enorme baja la conversión y te obliga a mantener stock que no rota.
+[Heading2] 4. Motor de combos
+[Heading3] 4.1 Problemas detectados en la lista actual
+[FirstParagraph] Antes de proponer precios nuevos, estos son los errores concretos que tiene la lista de combos vigente. Vale la pena corregirlos porque hoy te están costando plata:
+[Compact] #
+[Compact] Problema
+[Compact] Detalle
+[Compact] 1
+[Compact] Mismo valor base, precios distintos
+[Compact] Combo Estelar (Netflix + Disney+ + Prime) y Combo Galaxia (Netflix + Disney+ + HBO) tienen exactamente la misma base: $37.600. Uno cuesta $35.000 y el otro $30.000. Prime y HBO valen lo mismo ($10.000), así que no hay nada que justifique los $5.000 de diferencia.
+[Compact] 2
+[Compact] Mismo caso en los combos de 2
+[Compact] Andrómeda (Netflix + Prime) a $19.000 y Ozono (Netflix + HBO) a $20.000. Base idéntica: $25.600.
+[Compact] 3
+[Compact] Arbitraje: sale más barato comprar por partes
+[Compact] Combo Orión ($27.000) + Disney+ suelto ($12.000) = $39.000, mientras el Combo Espacial, que es exactamente eso mismo, cuesta $42.000. Un cliente atento nunca compra el Espacial.
+[Compact] 4
+[Compact] Segundo arbitraje
+[Compact] Combo Estrella ($22.000) + Prime suelto ($10.000) = $32.000 vs. Combo Estelar a $35.000.
+[Compact] 5
+[Compact] El descuento va al revés
+[Compact] El Espacial (4 plataformas) tiene el descuento más bajo de todos: 11,8%. Debería ser el más alto, porque es el combo que más te conviene vender.
+[Compact] 6
+[Compact] Súper Nova mal posicionado
+[Compact] Disney+ + HBO + Prime a $29.000 queda a solo $1.000 del Galaxia, que sí incluye Netflix ($15.600). El cliente percibe que el Súper Nova no vale la pena.
+[Heading3] 4.2 Regla de descuento propuesta
+[FirstParagraph] En lugar de fijar cada combo a mano, se define una sola regla que el sistema aplica automáticamente. Esto elimina las inconsistencias de raíz y permite crear combos nuevos sin volver a pensar el precio.
+[SourceCode] precio_combo = redondear_abajo_500( suma_precios_individuales × (1 − descuento) )
+[Compact] Nº de plataformas
+[Compact] Descuento
+[Compact] 2
+[Compact] 20 %
+[Compact] 3
+[Compact] 22 %
+[Compact] 4
+[Compact] 25 %
+[Compact] 5
+[Compact] 28 %
+[Compact] 6 o más
+[Compact] 30 %
+[Compact] Combos que incluyen Netflix Plan Completo (5 pantallas)
+[Compact] 15 %
+[BlockText] Por qué Netflix Plan Completo lleva menos descuento: es el producto de mayor costo absoluto y menor margen porcentual. Aplicarle 25 % puede dejarte vendiendo por debajo del costo.
+[Heading3] 4.3 Catálogo de combos recalculado
+[Heading4] 🌗 Combos de 2 plataformas — 20 % de descuento
+[Compact] Combo
+[Compact] Incluye
+[Compact] Base
+[Compact] Precio
+[Compact] Ahorro
+[Compact] 💫 Estrella
+[Compact] Netflix + Disney+
+[Compact] $27.600
+[Compact] $22.000
+[Compact] $5.600
+[Compact] 🌀 Ozono
+[Compact] Netflix + HBO Max
+[Compact] $25.600
+[Compact] $20.000
+[Compact] $5.600
+[Compact] 🚀 Andrómeda
+[Compact] Netflix + Prime Video
+[Compact] $25.600
+[Compact] $20.000
+[Compact] $5.600
+[Compact] ☁️ Nebulosa (nuevo)
+[Compact] Disney+ + HBO Max
+[Compact] $22.000
+[Compact] $17.500
+[Compact] $4.500
+[Compact] 🎵 Ritmo (nuevo)
+[Compact] Netflix + Spotify
+[Compact] $27.600
+[Compact] $22.000
+[Compact] $5.600
+[Compact] 🍥 Otaku (nuevo)
+[Compact] Netflix + Crunchyroll
+[Compact] $25.600
+[Compact] $20.000
+[Compact] $5.600
+[Heading4] 🌌 Combos de 3 plataformas — 22 % de descuento
+[Compact] Combo
+[Compact] Incluye
+[Compact] Base
+[Compact] Precio
+[Compact] Ahorro
+[Compact] 🌟 Estelar
+[Compact] Netflix + Disney+ + Prime Video
+[Compact] $37.600
+[Compact] $29.000
+[Compact] $8.600
+[Compact] 🌌 Galaxia
+[Compact] Netflix + Disney+ + HBO Max
+[Compact] $37.600
+[Compact] $29.000
+[Compact] $8.600
+[Compact] 🚀 Orión
+[Compact] Netflix + HBO Max + Prime Video
+[Compact] $35.600
+[Compact] $27.500
+[Compact] $8.100
+[Compact] 💥 Súper Nova
+[Compact] Disney+ + HBO Max + Prime Video
+[Compact] $32.000
+[Compact] $24.500
+[Compact] $7.500
+[Compact] ☄️ Cometa (nuevo)
+[Compact] Netflix + Spotify + YouTube Premium
+[Compact] $39.600
+[Compact] $30.500
+[Compact] $9.100
+[Compact] 📚 Estudio (nuevo)
+[Compact] Canva Pro 45 días + Spotify + YouTube Premium
+[Compact] $32.000
+[Compact] $24.500
+[Compact] $7.500
+[Heading4] 🛸 Combos de 4 plataformas — 25 % de descuento
+[Compact] Combo
+[Compact] Incluye
+[Compact] Base
+[Compact] Precio
+[Compact] Ahorro
+[Compact] ✨ Espacial
+[Compact] Netflix + Disney+ + Prime Video + HBO Max
+[Compact] $47.600
+[Compact] $35.500
+[Compact] $12.100
+[Compact] 🌑 Eclipse (nuevo)
+[Compact] Netflix + Disney+ + Prime Video + Paramount+
+[Compact] $47.600
+[Compact] $35.500
+[Compact] $12.100
+[Heading4] 🌠 Combos grandes — 28 % y 30 %
+[Compact] Combo
+[Compact] Incluye
+[Compact] Base
+[Compact] Precio
+[Compact] Ahorro
+[Compact] 🌠 Vía Láctea (nuevo, 5)
+[Compact] Netflix + Disney+ + Prime + HBO Max + Paramount+
+[Compact] $57.600
+[Compact] $41.000
+[Compact] $16.600
+[Compact] 🪐 Universo (nuevo, 7)
+[Compact] Netflix + Disney+ + Prime + HBO Max + Paramount+ + Spotify + YouTube Premium
+[Compact] $81.600
+[Compact] $57.000
+[Compact] $24.600
+[Heading4] 🏠 Combos familiares (Netflix Plan Completo) — 15 %
+[Compact] Combo
+[Compact] Incluye
+[Compact] Base
+[Compact] Precio
+[Compact] Ahorro
+[Compact] 🏠 Hogar (nuevo)
+[Compact] Netflix 5 pantallas + Disney+
+[Compact] $77.000
+[Compact] $65.000
+[Compact] $12.000
+[Compact] 🏡 Hogar Plus (nuevo)
+[Compact] Netflix 5 pantallas + Disney+ + HBO Max
+[Compact] $87.000
+[Compact] $73.500
+[Compact] $13.500
+[Heading3] 4.4 Validación anti-arbitraje
+[FirstParagraph] Regla obligatoria antes de publicar cualquier combo nuevo:
+[BlockText] Ningún combo puede costar más que la suma de la combinación más barata de combos menores + productos sueltos que den el mismo contenido.
+[FirstParagraph] Verificación de la tabla anterior:
+[Compact] Combo
+[Compact] Alternativa más barata comprando por partes
+[Compact] ¿Combo gana?
+[Compact] Espacial $35.500
+[Compact] Orión $27.500 + Disney+ $12.000 = $39.500
+[Compact] ✅
+[Compact] Espacial $35.500
+[Compact] Nebulosa $17.500 + Andrómeda $20.000 = $37.500
+[Compact] ✅
+[Compact] Estelar $29.000
+[Compact] Estrella $22.000 + Prime $10.000 = $32.000
+[Compact] ✅
+[Compact] Galaxia $29.000
+[Compact] Ozono $20.000 + Disney+ $12.000 = $32.000
+[Compact] ✅
+[Compact] Orión $27.500
+[Compact] Ozono $20.000 + Prime $10.000 = $30.000
+[Compact] ✅
+[Compact] Súper Nova $24.500
+[Compact] Nebulosa $17.500 + Prime $10.000 = $27.500
+[Compact] ✅
+[Compact] Vía Láctea $41.000
+[Compact] Espacial $35.500 + Paramount+ $10.000 = $45.500
+[Compact] ✅
+[Compact] Universo $57.000
+[Compact] Vía Láctea $41.000 + Spotify $12.000 + YouTube $12.000 = $65.000
+[Compact] ✅
+[Heading3] 4.5 Escenario conservador (si el margen no aguanta)
+[FirstParagraph] Los precios de §4.3 son más bajos que varios de los combos actuales (el Espacial pasa de $42.000 a $35.500). Si tu costo de proveedor no da para ese descuento, usa esta escala alterna, que mantiene la coherencia pero protege margen:
+[Compact] Nº plataformas
+[Compact] Descuento
+[Compact] Ejemplos
+[Compact] 2
+[Compact] 15 %
+[Compact] Estrella $23.000 · Ozono $21.500 · Andrómeda $21.500
+[Compact] 3
+[Compact] 17 %
+[Compact] Estelar $31.000 · Galaxia $31.000 · Orión $29.500 · Súper Nova $26.500
+[Compact] 4
+[Compact] 20 %
+[Compact] Espacial $38.000 · Eclipse $38.000
+[Compact] 5
+[Compact] 22 %
+[Compact] Vía Láctea $44.500
+[Compact] 7
+[Compact] 25 %
+[Compact] Universo $61.000
+[BodyText] Lo importante no es cuál escala elijas, sino que elijas una sola y la apliques a todos los combos. El problema real de la lista actual no son los precios: es que cada combo tiene un descuento distinto sin lógica detrás.
+[Heading2] 5. Modelo de datos (Supabase / PostgreSQL)
+[SourceCode] -- Categorías del catálogocreate table categorias (  id          bigserial primary key,  nombre      text not null,          -- &#39;Video&#39;, &#39;Música&#39;, &#39;Productividad&#39;  emoji       text,  orden       int default 0);-- Plataformas (Netflix, Disney+, ...)create table plataformas (  id           bigserial primary key,  categoria_id bigint references categorias(id),  nombre       text not null,  emoji        text,  logo_url     text,  descripcion  text,  activo       boolean default true,  bajo_pedido  boolean default false, -- true = no muestra precio, cotiza por WhatsApp  orden        int default 0);-- Planes: una plataforma puede tener varios (1 pantalla, 5 pantallas, 45 días...)create table planes (  id            bigserial primary key,  plataforma_id bigint references plataformas(id) on delete cascade,  nombre        text not null,        -- &#39;1 pantalla&#39;, &#39;Plan completo 5 pantallas&#39;  dias          int not null default 30,  precio        numeric(10,0) not null,  activo        boolean default true);-- Comboscreate table combos (  id             bigserial primary key,  nombre         text not null,       -- &#39;Combo Espacial&#39;  emoji          text,  descuento_pct  numeric(5,2) not null,  precio_final   numeric(10,0) not null,  -- calculado y congelado al guardar  destacado      boolean default false,  activo         boolean default true,  orden          int default 0);create table combo_items (  combo_id bigint references combos(id) on delete cascade,  plan_id  bigint references planes(id),  primary key (combo_id, plan_id));-- Pedidos (cotizaciones enviadas por WhatsApp)create table pedidos (  id             bigserial primary key,  cliente_nombre text,  cliente_tel    text,  total          numeric(10,0) not null,  estado         text default &#39;cotizado&#39;,  -- cotizado | pagado | entregado | vencido  creado_en      timestamptz default now());create table pedido_items (  id          bigserial primary key,  pedido_id   bigint references pedidos(id) on delete cascade,  combo_id    bigint references combos(id),  plan_id     bigint references planes(id),  cantidad    int default 1,  precio_unit numeric(10,0) not null,     -- precio congelado al momento del pedido  check (combo_id is not null or plan_id is not null));
+[FirstParagraph] Vista auxiliar para mostrar el ahorro sin recalcularlo en el front:
+[SourceCode] create view v_combos asselect  c.id, c.nombre, c.emoji, c.precio_final, c.descuento_pct, c.destacado,  sum(p.precio)                     as precio_base,  sum(p.precio) - c.precio_final    as ahorro,  count(*)                          as num_plataformasfrom combos cjoin combo_items ci on ci.combo_id = c.idjoin planes p       on p.id = ci.plan_idwhere c.activogroup by c.id;
+[FirstParagraph] Notas de seguridad para Supabase:
+[Compact] Activa RLS en todas las tablas. plataformas, planes y combos con política de lectura pública (select para anon); escritura solo para el rol admin.
+[Compact] pedidos y pedido_items: sin lectura pública. Insert desde el cliente, lectura solo para admin.
+[Compact] Nunca guardes credenciales de cuentas (correo/contraseña de Netflix, etc.) en tablas accesibles desde el front. Eso va en tu panel administrativo (el sistema Laravel), cifrado, no en la tienda pública.
+[Compact] La anon key de Supabase es pública por diseño. Toda la protección real está en las políticas RLS, no en esconder la llave.
+[Heading2] 6. Lógica de precios en el front
+[SourceCode] // Escala de descuento por número de plataformasconst ESCALA_DESCUENTO = { 2: 0.20, 3: 0.22, 4: 0.25, 5: 0.28 };const DESCUENTO_MAX = 0.30;const DESCUENTO_PLAN_COMPLETO = 0.15;const redondearAbajo500 = (n) => Math.floor(n / 500) * 500;export function calcularCombo(planes) {  const base = planes.reduce((acc, p) => acc + p.precio, 0);  const incluyePlanCompleto = planes.some((p) => p.nombre.includes(&#39;Plan completo&#39;));  const descuento = incluyePlanCompleto    ? DESCUENTO_PLAN_COMPLETO    : (ESCALA_DESCUENTO[planes.length] ?? DESCUENTO_MAX);  const precio = redondearAbajo500(base * (1 - descuento));  return {    base,    precio,    ahorro: base - precio,    descuentoPct: +(((base - precio) / base) * 100).toFixed(1),  };}// Formato de moneda colombianaexport const cop = (n) =>  new Intl.NumberFormat(&#39;es-CO&#39;, {    style: &#39;currency&#39;, currency: &#39;COP&#39;, maximumFractionDigits: 0,  }).format(n);// cop(35500) -> "$ 35.500"
+[FirstParagraph] Regla de UI: en cada tarjeta de combo muestra siempre los tres datos juntos —precio tachado (base), precio final y ahorro—. El ahorro explícito es lo que más mueve la conversión en este tipo de tienda.
+[SourceCode] ✨ Combo EspacialNetflix · Disney+ · Prime Video · HBO Max̶$̶4̶7̶.̶6̶0̶0̶   $35.500🔥 Ahorras $12.100 (25%)
+[Heading2] 7. Flujo de venta y cierre por WhatsApp
+[Heading3] 7.1 Recorrido del cliente
+[Compact] Entra al catálogo → ve combos destacados primero.
+[Compact] Agrega combos y/o pantallas sueltas al carrito.
+[Compact] En el carrito ve el total y llena nombre (opcional).
+[Compact] Pulsa “Pedir por WhatsApp” → se abre el chat con el mensaje ya redactado.
+[Compact] Vendedor confirma pago y envía credenciales.
+[Heading3] 7.2 Generación del enlace
+[SourceCode] const WHATSAPP = &#39;573003838830&#39;; // 57 = indicativo Colombiafunction construirMensaje(carrito, total, nombre) {  const lineas = carrito.map(    (i) => `• ${i.nombre} (${i.dias} días) x${i.cantidad} — ${cop(i.precio * i.cantidad)}`  );  return [    &#39;¡Hola Jose Store! 👋 Quiero hacer este pedido:&#39;,    &#39;&#39;,    ...lineas,    &#39;&#39;,    `*TOTAL: ${cop(total)}*`,    nombre ? `Mi nombre: ${nombre}` : &#39;&#39;,    &#39;&#39;,    &#39;Quedo atento a los datos de pago 🙌&#39;,  ].filter(Boolean).join(&#39;\n&#39;);}const enlace = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(  construirMensaje(carrito, total, nombre))}`;
+[FirstParagraph] Importante: antes de redirigir, guarda el pedido en la tabla pedidos. Si solo abres WhatsApp, pierdes todo registro de las cotizaciones que no cerraron — que es justo la información más útil para saber qué combos se están mirando y no se están comprando.
+[Heading3] 7.3 Plantilla de respuesta del vendedor
+[SourceCode] ¡Hola! 😄 Confirmado tu pedido:[detalle]Total: $XX.XXX💳 Medios de pago:• Nequi: 300 383 8830• Daviplata: 300 383 8830• Bancolombia Ahorros: XXXXXXXXXEnvíame el comprobante y activo de una ⚡
+[Heading2] 8. Políticas de la tienda
+[FirstParagraph] Estas van publicadas en el sitio. Definirlas bien te evita la mayoría de los reclamos.
+[Heading3] 8.1 Activación
+[Compact] Tiempo estimado: 5 a 30 minutos después de confirmado el pago, en horario de atención.
+[Compact] Horario de soporte: lunes a sábado, 8:00 a.m. – 9:00 p.m. Domingos y festivos: 10:00 a.m. – 6:00 p.m.
+[Heading3] 8.2 Garantía de 24 horas
+[Compact] Vigencia: 24 horas contadas desde la entrega de las credenciales.
+[Compact] Cubre: credenciales que no funcionan, cuenta caída al momento de la entrega, perfil no disponible, error en el plan enviado.
+[Compact] Solución: reposición de la cuenta o cambio de perfil dentro de las 24 horas siguientes al reporte.
+[Compact] No cubre: reportes hechos después de las primeras 24 horas ni el mal uso del cliente (ver 8.3).
+[FirstParagraph] Texto para publicar en el sitio:
+[BlockText] 🔥 Garantía de 24 horas. Si tu cuenta presenta algún inconveniente dentro de las primeras 24 horas después de la entrega, la reponemos sin costo. Repórtalo por WhatsApp con tu comprobante de pago.
+[FirstParagraph] Dos observaciones sobre esta política:
+[Compact] Reemplaza el texto “Garantía total” del banner. “Garantía total” sin condiciones escritas es una promesa que no vas a poder sostener cuando un proveedor te tumbe una cuenta al día 15. “Garantía de 24 horas” es concreto y sí lo puedes cumplir.
+[Compact] Ten previsto qué vas a responder en el día 10. Vendes un producto de 30 días con una garantía de 24 horas, así que la mayoría de las caídas van a caer fuera de cobertura. Eso es válido como política, pero necesitas una respuesta definida para ese caso —reposición con recargo, descuento en la siguiente renovación, o negativa clara— porque va a pasar seguido y es donde se pierden los clientes recurrentes. Deja esa regla escrita antes de publicar.
+[Heading3] 8.3 Reglas de uso (el cliente las acepta al comprar)
+[Compact] No cambiar la contraseña ni el correo de la cuenta.
+[Compact] No modificar, renombrar ni eliminar perfiles ajenos.
+[Compact] Una pantalla = un dispositivo a la vez.
+[Compact] No compartir las credenciales con terceros.
+[Compact] No agregar métodos de pago propios a la cuenta.
+[FirstParagraph] El incumplimiento anula la garantía. Publícalo textual: la mayoría de las pérdidas de acceso vienen de estos cinco puntos.
+[Heading3] 8.4 Renovación
+[Compact] Aviso automático 3 días antes del vencimiento (esto ya lo tienes resuelto con las notificaciones SMTP del panel Laravel).
+[Compact] Renovación anticipada: mantiene la misma cuenta y perfil.
+[Compact] Después de 48 h de vencido, no se garantiza el mismo perfil.
+[Heading3] 8.5 Programa VIP / revendedores
+[FirstParagraph] El listado de combos que manejas hoy está marcado como “exclusivo para grupos de ventas VIP”. Formalízalo:
+[Compact] Nivel
+[Compact] Requisito
+[Compact] Beneficio
+[Compact] Cliente
+[Compact] —
+[Compact] Precios de catálogo
+[Compact] VIP
+[Compact] 5+ pantallas activas
+[Compact] 5 % adicional sobre combos
+[Compact] Revendedor
+[Compact] 15+ pantallas activas
+[Compact] Lista de precios mayorista + soporte prioritario
+[BodyText] Si aplicas descuento VIP sobre los combos ya descontados, revisa que el resultado siga por encima de tu costo. Un combo con 25 % + 5 % VIP queda cerca del 30 % de descuento sobre el precio base.
+[Heading2] 9. Riesgos y consideraciones
+[FirstParagraph] Cosas que conviene tener presentes en el diseño de la tienda:
+[Compact] Términos de servicio. Netflix, Disney+ y HBO Max restringen el uso de la cuenta fuera del hogar del titular y han endurecido la detección. Esto se traduce en riesgo operativo real: cuentas caídas y reposiciones. Dimensiona tu política de garantía contando con que va a pasar, no como excepción.
+[Compact] Datos personales (Ley 1581 de 2012). Si guardas nombre y teléfono de clientes en Supabase, necesitas una política de tratamiento de datos publicada y una casilla de autorización en el carrito. Es un requisito legal en Colombia y toma poco tiempo agregarlo.
+[Compact] Credenciales fuera del front. Bajo ningún escenario las cuentas viven en la base de datos de la tienda pública. Ese es el trabajo del panel administrativo.
+[Compact] Precios congelados en el pedido. pedido_items.precio_unit guarda el precio del momento. Si actualizas el catálogo, los pedidos históricos no deben cambiar de valor.
+[Compact] Dependencia de un solo canal. Todo el cierre depende de un número de WhatsApp. Un bloqueo de esa línea te deja sin operación: ten un número secundario publicado y respaldo de la base de contactos.
+[Heading2] 10. Checklist de implementación
+[Compact] #
+[Compact] Tarea
+[Compact] Estado
+[Compact] 1
+[Compact] Definir escala de descuento definitiva (§4.2 o §4.5)
+[Compact] ☐
+[Compact] 2
+[Compact] Validar precios sugeridos de §3 contra costo de proveedor
+[Compact] ☐
+[Compact] 3
+[Compact] Crear tablas y políticas RLS en Supabase
+[Compact] ☐
+[Compact] 4
+[Compact] Cargar plataformas, planes y combos
+[Compact] ☐
+[Compact] 5
+[Compact] Ejecutar validación anti-arbitraje sobre todos los combos
+[Compact] ☐
+[Compact] 6
+[Compact] Vista de catálogo + vista de combos en React
+[Compact] ☐
+[Compact] 7
+[Compact] Carrito con cálculo y formato COP
+[Compact] ☐
+[Compact] 8
+[Compact] Registro del pedido en BD antes de redirigir a WhatsApp
+[Compact] ☐
+[Compact] 9
+[Compact] Publicar políticas (§8) y autorización de datos
+[Compact] ☐
+[Compact] 10
+[Compact] Panel admin para crear productos y combos sin tocar código
+[Compact] ☐
+[FirstParagraph] 📩 Contacto: WhatsApp 300 383 8830 🎉 Jose Store — Streaming al mejor precio
